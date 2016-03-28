@@ -1,0 +1,2 @@
+# VCOAMPigScript
+clean VCOnlineAnalysisMode log
